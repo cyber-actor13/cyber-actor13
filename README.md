@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="assets/banner.gif" width="100%" alt="pixel art street scene">
 
-<!--
-**cyber-actor13/cyber-actor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hey, i'm soham
 
-Here are some ideas to get you started:
+13, student, and usually building something.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now that's drones, Rust, and a bit of assembly. When I'm not coding I'm watching football — Ronaldo, always.
+
+**working on**
+
+- drone builds — hardware + code
+- learning Rust and low-level stuff
+- a parking lot system (shipped)
+- just registered for Cosmos Hack
+
+**tools**
+
+Rust · Assembly · Git
